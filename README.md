@@ -1,3 +1,5 @@
+![Banner](./Banner.png)
+
 ## Hi there  
 
 I’m a Developer Leader, AI Engineer, and LLM Application Developer & Tester.  
